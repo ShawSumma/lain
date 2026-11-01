@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+.lain
+.venv
+export.txt
+test

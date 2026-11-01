@@ -1,0 +1,6 @@
+[
+  {"query": "terraform modules for staging", "missing": ["terraform"]},
+  {"query": "oauth login tokens", "missing": ["oauth"]},
+  {"query": "graphql resolvers", "missing": ["graphql"]},
+  {"query": "kafka consumer lag", "missing": ["kafka"]}
+]

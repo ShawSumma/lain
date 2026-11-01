@@ -1,0 +1,14 @@
+[
+  {"query": "a browser page to watch the agents while they run", "expect": ["lain#64dd6764/1"]},
+  {"query": "stop writing a separate log, the step files are the record", "expect": ["lain#64dd6764/137"]},
+  {"query": "leave export.py alone", "expect": ["lain#64dd6764/169"]},
+  {"query": "javascript style: arrow functions, braces, no ternaries or comments", "expect": ["lain#64dd6764/232"]},
+  {"query": "record which files a shell command opened", "expect": ["lain#9a4025c9/1"]},
+  {"query": "read claude code sessions afterwards and while they happen", "expect": ["lain#9a4025c9/208"]},
+  {"query": "keep what lain learns inside the project instead of a local folder", "expect": ["lain#9a4025c9/565"]},
+  {"query": "dogfood lain on its own repository and other projects", "expect": ["lain#9a4025c9/789"]},
+  {"query": "invented dollar costs", "expect": ["lain#9a4025c9/1027"]},
+  {"query": "claude -p reports numbers that are not true", "expect": ["lain#9a4025c9/1035"]},
+  {"query": "strip out the cargo cult code, tests and schemas nobody wanted", "expect": ["lain#9a4025c9/1090"]},
+  {"query": "what interface should present the output to people", "expect": ["lain#9a4025c9/1320"]}
+]

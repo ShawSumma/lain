@@ -1,0 +1,9 @@
+[
+  {"query": "viewer.html and viewer.py first written", "expect": ["lain#64dd6764/1"]},
+  {"query": "finder.py loop.py tools.py", "expect": ["lain#64dd6764/193"]},
+  {"query": "watch.py config.py views.py", "expect": ["lain#9a4025c9/1"]},
+  {"query": "fake_claude.py transcript.py hook.py ingest.py", "expect": ["lain#9a4025c9/208"]},
+  {"query": "places.py", "expect": ["lain#9a4025c9/565"]},
+  {"query": "prompts.py transcript.py finder.py", "expect": ["lain#9a4025c9/1098"]},
+  {"query": "story.py recall.py archaeology.py", "expect": ["lain#9a4025c9/1329"]}
+]
